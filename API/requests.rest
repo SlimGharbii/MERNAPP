@@ -1,0 +1,18 @@
+POST 
+Content-Type: application/json
+
+{
+
+"text":"jib flous bara chikh khouya"
+
+}
+######
+
+PUT http://localhost:3001/todo/update/
+
+Content-Type: application/json
+
+{
+"text": "fasakh eli kablou"
+}
+
